@@ -3,10 +3,6 @@
 + [wdrozenie.it](https://www.wdrozenie.it/)
 + [wdrozenie - Dokumentacja](https://docs.wdrozenie.it/)
 
-
-# chat.wapka.pl
-
-
 ## Stosowane skróty
 
     // zadanie - czynność
